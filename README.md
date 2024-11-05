@@ -1,1 +1,1 @@
-ttps://elifkvsr.github.io/Notes-App/
+https://elifkvsr.github.io/Notes-App/
